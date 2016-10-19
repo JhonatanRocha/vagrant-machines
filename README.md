@@ -31,4 +31,5 @@ This repository contains the files to build a **Virtual Machine** which includes
 
 ## License
 
-Copyright © [Jhonatan Rocha](https://jhonatanrocha.github.io/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
+Feel free to use it whatever you want. ;)
