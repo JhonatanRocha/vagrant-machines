@@ -1,3 +1,4 @@
+<img src="http://image.flaticon.com/icons/png/128/186/186274.png" align="right" />
 Vagrant
 ===================
 
